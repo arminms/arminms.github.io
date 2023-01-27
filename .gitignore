@@ -3,6 +3,7 @@
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
+*.json
 
 # Executable may be added to repository
 hugo.exe
@@ -11,4 +12,11 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+# Node related
+/node_modules/
+
+# Go related
+go.mod
+go.sum
 
