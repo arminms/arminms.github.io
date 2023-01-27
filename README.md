@@ -10,8 +10,9 @@ This is a repository that generates my personal web page.
 ```
 git clone git@github.com:arminms/arminms.github.io.git
 cd arminms.github.io
-hugo mod init github.com/arminms/arminms.github.io
+hugo mod init --config config.init.toml github.com/arminms/arminms.github.io
 hugo mod tidy
 hugo mod npm pack
+npm install
 hugo server -w
 ```
