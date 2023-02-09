@@ -1,0 +1,109 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: HPC Technical Consultant
+# your company information
+company:
+  name: SHARCNET
+  url: "https://sharcnet.ca"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a seasoned HPC/ARC technical consultant based at Ontario Tech University with over 15 years’ experience developing parallel scientific software and providing support and training to faculty, staff and students. I have substantial experience in developing software for HPC environments including but not limited to shared and distributed-memory architectures (OpenMP, MPI, PGAS), data-parallel (CUDA, ROCm) and heterogeneous computing (OpenCL, OpenACC, SYCL, oneAPI). I love cooking, swimming, photography, listening to music and of course video gaming!'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "arminms@gmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/arminms"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/arminms"
+
+- name: GitHub
+  icon: "fab fa-github"
+  url: "https://github.com/arminms"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/u/1681455"
+
+- name: YouTube
+  icon: "fab fa-youtube"
+  url: "https://youtube.com/@armyxn"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/armin.madadkar"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://instagram.com/arm1ns0bhan1"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+# resourceLinks:
+# - title: "My Resume"
+#   url: "files/resume.pdf"
+
+badges:
+- type: soft-skill-indicator
+  name: Bioinformatics
+  percentage: 90
+  color: "#9999FF"
+
+- type: soft-skill-indicator
+  name: in silico Drug Design
+  percentage: 90
+  color: "#CC99FF"
+
+- type: soft-skill-indicator
+  name: HPC / ARC
+  percentage: 95
+  color: "#FF99FF"
+
+- type: soft-skill-indicator
+  name: C/C++
+  percentage: 95
+  color: "#99CCFF"
+
+- type: soft-skill-indicator
+  name: CMake
+  percentage: 85
+  color: "#FFCC99"
+
+- type: soft-skill-indicator
+  name: Python
+  percentage: 75
+  color: "#99FFFF"
+
+- type: soft-skill-indicator
+  name: CUDA
+  percentage: 80
+  color: "#B2FF66"
+
+- type: soft-skill-indicator
+  name: ROCm
+  percentage: 75
+  color: "#FF6666"
+
+- type: soft-skill-indicator
+  name: oneAPI
+  percentage: 50
+  color: "#66B2FF"
