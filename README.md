@@ -1,3 +1,4 @@
+[![github pages](https://github.com/arminms/arminms.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/arminms/arminms.github.io/actions/workflows/gh-pages.yml)
 # arminms.github.io
 This is a repository that generates my personal web page.
 
