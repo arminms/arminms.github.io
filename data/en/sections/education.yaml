@@ -1,0 +1,89 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Programming and tUning Massively Parallel Systems, PUMPS Summer School
+  icon: fa-university
+  timeframe: June 2011
+  institution:
+    name: Universitat Politecnica De Catalunya
+    url: "https://www.upc.edu/en?set_language=en"
+- name: Ph.D. in Pharmacology
+  icon: fa-microscope
+  timeframe: 1995-2001
+  institution:
+    name: Iran University of Medical Sciences
+    url: "https://en.iums.ac.ir/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 3.53
+    outOf: 4
+  publications: #(optional)
+  - title: An in vitro evaluation of human DNA topoisomerase I inhibition by Peganum harmala L. seeds extract and its β-carboline alkaloids.
+    url: "http://www.ualberta.ca/~csps/JPPS5(1)/M.Mahmoudian/peganum.pdf"
+  - title: Cytotoxicity of Peganum harmala L. seeds extract and its relationship with content of β-carboline alkaloids.
+    url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Biostatistics
+      achieved: 4
+      outOf: 4
+    - name: Computer
+      achieved: 4
+      outOf: 4
+    - name: General Pharmacology
+      achieved: 3.4
+      outOf: 4
+    - name: Advanced Toxicology
+      achieved: 3.8
+      outOf: 4
+- name: Pharm.D.
+  icon: fa-graduation-cap
+  timeframe: 1988-1995
+  institution:
+    name: Tehran University of Medical Sciences
+    url: "https://en.tums.ac.ir/en"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 3.32
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Basic Mathematics and Introduction to Statistics
+      achieved: 3.5
+      outOf: 4
+    - name: Biostatistics
+      achieved: 3.1
+      outOf: 4
+    - name: Pharmacology
+      achieved: 3.6
+      outOf: 4
+    - name: Biochemistry
+      achieved: 3.8
+      outOf: 4
+    - name: Biophysics
+      achieved: 3.4
+      outOf: 4
+- name: Secondary School Certificate
+  icon: fa-school
+  timeframe: 1983-1987
+  institution:
+    name: Alborz High School
+  grade: #(optional)
+    scale: GPA
+    achieved: 4.61
+    outOf: 5
