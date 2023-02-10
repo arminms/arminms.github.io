@@ -1,4 +1,4 @@
-# arminsobhani.ca
+# arminms.github.io
 This is a repository that generates my personal web page.
 
 ## Prerequisites
