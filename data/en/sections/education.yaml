@@ -30,7 +30,7 @@ degrees:
   - title: An in vitro evaluation of human DNA topoisomerase I inhibition by Peganum harmala L. seeds extract and its β-carboline alkaloids.
     url: "http://www.ualberta.ca/~csps/JPPS5(1)/M.Mahmoudian/peganum.pdf"
   - title: Cytotoxicity of Peganum harmala L. seeds extract and its relationship with content of β-carboline alkaloids.
-    url: "#"
+    # url: "#"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
