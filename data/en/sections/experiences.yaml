@@ -24,7 +24,7 @@ experiences:
     - Actively participated in training and outreach programs including but not limited to New User and Refresher Seminars (NURSE), General Interest Seminars (GIS), Summer Schools on HPC, Intro to ARC, etc.
     - Provide programming and consulting support to build expertise in the use of [SHARCNET](https://sharcnet.ca)/[DRAC](https://alliancecan.ca) facilities.
     - Contribute to [SHARCNET’s Dedicated Programming](https://www.sharcnet.ca/my/research/programming) projects.
-    - '**Primary Technologies Used:** Ansible, Aptainer, Boost, CCDB, CMake, CUDA, Docker, DirectX, FPGA, gcc/g++/gdb, Git, GitHub Actions, GNU GSL, HoloLens, IBM LSF, Intel oneAPI, Jenkins, MPI, Ninja, Nix, NVIDIA HPC SDK, OpenGL, OpenMP, OTRS, PGAS, Python, ROCm, Slack, SLURM, STL, SYCL, TBB, Thrust, vcpkg, VSCode, Vulkan'
+    - '**Primary Technologies Used:** Ansible, Apptainer, Boost, CCDB, CMake, CUDA, Docker, DirectX, FPGA, gcc/g++/gdb, Git, GitHub Actions, GNU GSL, HoloLens, Hugo, IBM LSF, Intel oneAPI, Jenkins, MPI, Ninja, Nix, NVIDIA HPC SDK, OpenGL, OpenMP, OTRS, PGAS, Python, ROCm, Slack, SLURM, Sphinx, STL, SYCL, TBB, Thrust, vcpkg, VSCode, Vulkan'
 
 - company:
     name: OCAD University
@@ -50,7 +50,7 @@ experiences:
     start: 2010
     end: 2014
     responsibilities:
-    - Conduct research projects and wrote grant proposals for the national supercomputing facility of Spain.
+    - Conduct research projects and write grant proposals for the national supercomputing facility of Spain.
     - Collaborate on PELE project, a large parallel Monte Carlo sampling molecular simulation codebase supported by the European Research Council (ERC) starter grant (€1,500,000), as part of a variable team size of 5-10 people.
     - Conduct interviews and brainstorming sessions with the team.
     - Deliver formal presentations and tutorials.
@@ -87,12 +87,12 @@ experiences:
     - Teach undergraduate students (nursing, midwiferies, paramedics, …).
     - Teach graduate students (MD, Ph.D. candidates in pharmacology, biochemistry, physiology, etc.).
     - Supervise M.Sc. theses and Ph.D. dissertations.
-    - Develope software controlling data acquisition (DAQ) hardware for monitoring animal behaviour.
+    - Develope software controlling data acquisition (DAQ) hardware for monitoring animal behavior.
     - Administer university’s mail, web, Firewall/Proxy, DNS, DHCP and TACACS servers.
     - Manage and maintain network/internet infrastructure of the university.
     - Administer and maintain Sun SPARC, HP and IBM servers.
     - Provide consultation in purchasing hardware and software.
-    - '**Primary Technologies Used:** Apache, Cisco ASA, DNS, IIS, LAMPP, Microsoft Exchange, MS ISA Server, Squid, SunOS, Sun Solris, TACACS, Zimbra.'
+    - '**Primary Technologies Used:** Apache, Cisco ASA, DNS, IIS, LAMPP, Microsoft Exchange, MS ISA Server, Squid, SunOS, Sun Solaris, TACACS, Zimbra.'
 
 - company:
     name: National Institute of Genetic Engineering & Biotechnology (NIGEB)
@@ -105,10 +105,10 @@ experiences:
     end: 2001
     responsibilities:
     - Administer institute’s mail (sendmail), gopher, web (Apache), Telnet, FTP, DNS, NIS servers.
-    - Administer and manage bioinformatics software and databases (IntelliGentetics IGSuite, Entrez, Swiss-Prot, PDB, etc.).
+    - Administer and manage bioinformatics software and databases (IntelliGenetics IGSuite, Entrez, Swiss-Prot, PDB, etc.).
     - Administer and maintain Sun SPARC servers.
     - Manage and maintain network/internet infrastructure of the institute.
     - Perform hardware and software troubleshooting.
     - Perform regular (incremental) backups.
     - Deliver lectures, tutorials, workshops and practical classes.
-    - '**Primary Technologies Used:** Apache, DNS, FTP, gopher, NIS, sendmail, SunOS, Sun Solris.'
+    - '**Primary Technologies Used:** Apache, DNS, FTP, gopher, NIS, sendmail, SunOS, Sun Solaris.'
