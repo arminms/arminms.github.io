@@ -1,0 +1,59 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: amstools
+  role: Owner
+  timeline: "March 2022 - Present"
+  repo: https://github.com/arminms/amstools
+  summary: Collection of high-performance biological sequence tools developed in C/C++.
+  tags: ["academic", "bioinformatics", "NGS"]
+
+- name: HoliMoli
+  logo: /images/sections/projects/holimoli.png
+  role: Owner
+  timeline: 2016
+  repo: https://github.com/arminms/HoliMoli
+  #url: ""
+  summary: The molecular hologram viewer for Microsoft HoloLens.
+  tags: ["hobby","HoloLens","molecule","3D"]
+
+- name: Hashkat Version 2 (#k@-v2)
+  role: Developer
+  timeline: "2015 - Present"
+  repo: https://github.com/arminms/hashkat-v2
+  summary: 'HPC version of original [#k@](http://hashkat.org/) (Kinetic Analysis of Twitter-like Network).'
+  tags: ["academic","professional"]
+
+- name: Maral
+  role: Owner
+  timeline: "2012 - 2017"
+  repo: https://github.com/arminms/maral
+  summary: 'Maral is a header-only template based C++11 molecular API.'
+  tags: ["academic","hobby","molecule","3D"]
+
+- name: PELE Web Server
+  role: Developer
+  timeline: "2011 - Present"
+  url: https://pele.bsc.es
+  summary: 'Web interface for Protein Energy Landscape Exploration program written in C++.'
+  tags: ["academic","professional","drug design"]
