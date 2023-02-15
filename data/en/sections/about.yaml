@@ -86,7 +86,7 @@ badges:
 - type: soft-skill-indicator
   name: CMake
   percentage: 85
-  color: "#FFCC99"
+  color: "#ff9900"
 
 - type: soft-skill-indicator
   name: Python
@@ -96,14 +96,14 @@ badges:
 - type: soft-skill-indicator
   name: CUDA
   percentage: 80
-  color: "#B2FF66"
+  color: "#76b900"
 
 - type: soft-skill-indicator
   name: ROCm
   percentage: 75
-  color: "#FF6666"
+  color: "#ef0001"
 
 - type: soft-skill-indicator
   name: oneAPI
   percentage: 50
-  color: "#66B2FF"
+  color: "#0068b5"
