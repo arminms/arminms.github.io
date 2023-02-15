@@ -24,7 +24,7 @@ experiences:
     - Actively participated in training and outreach programs including but not limited to New User and Refresher Seminars (NURSE), General Interest Seminars (GIS), Summer Schools on HPC, Intro to ARC, etc.
     - Provide programming and consulting support to build expertise in the use of [SHARCNET](https://sharcnet.ca)/[DRAC](https://alliancecan.ca) facilities.
     - Contribute to [SHARCNET’s Dedicated Programming](https://www.sharcnet.ca/my/research/programming) projects.
-    - '**Primary Technologies Used:** Ansible, Apptainer, BLAS, Boost, CCDB, CMake, CUDA, Docker, DirectX, FlexiBLAS, FPGA, gcc/g++/gdb, Git, GitHub Actions, GNU GSL, HoloLens, Hugo, IBM LSF, LAPACK, MPI, Ninja, Nix, NVIDIA HPC SDK, oneAPI, OpenGL, OpenMP, OTRS, PGAS, Python, ROCm, Slack, SLURM, Sphinx, STL, SYCL, TBB, Thrust, vcpkg, VSCode, Vulkan'
+    - '**Primary Technologies Used:** Ansible, Apptainer/Singularity, BLAS, Boost, CCDB, CMake, CUDA, Docker, DirectX, FlexiBLAS, FPGA, gcc/g++/gdb, Git, GitHub Actions, GNU GSL, HoloLens, Hugo, IBM LSF, LAPACK, MPI, Ninja, Nix, NVIDIA HPC SDK, oneAPI, OpenGL, OpenMP, OTRS, PGAS, Python, ROCm, Slack, SLURM, Sphinx, STL, SYCL, TBB, Thrust, vcpkg, VSCode, Vulkan'
 
 - company:
     name: OCAD University
