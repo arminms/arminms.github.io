@@ -33,11 +33,11 @@ projects:
   role: Owner
   timeline: 2016
   repo: https://github.com/arminms/HoliMoli
-  #url: ""
   summary: The molecular hologram viewer for Microsoft HoloLens.
   tags: ["hobby","HoloLens","molecule","3D"]
 
 - name: Hashkat Version 2 (#k@-v2)
+  logo: /images/sections/projects/hashkat.svg
   role: Developer
   timeline: "2015 - Present"
   repo: https://github.com/arminms/hashkat-v2
