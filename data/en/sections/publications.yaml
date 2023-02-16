@@ -143,7 +143,7 @@ publications:
   categories: ["cadd"]
   tags: ["IL-1β","synthesis","TNF-α"]
 
-- title: 'Automatic classification of highly related Malate Dehydrogenase and L-Lactate Dehydrogenase based on 3D-pattern of active sites'
+- title: 'Efficacy of function specific 3D-motifs in enzyme classification according to their EC-numbers'
   publishedIn:
     name: Journal of Theoretical Biology
     date: 7 November 2013
@@ -158,3 +158,57 @@ publications:
     url: http://dx.doi.org/10.1016/j.jtbi.2013.07.003
   categories: ["bio","comp","selected"]
   tags: ["3D-motifs","classification","enzyme"]
+
+- title: 'Phenylimino-2H-chromen-3-carboxamide derivatives as novel small molecule inhibitors of β-secretase (BACE1)'
+  publishedIn:
+    name: Bioorganic and Medicinal Chemistry
+    date: 15 April 2013
+    url: https://www.sciencedirect.com/journal/bioorganic-and-medicinal-chemistry
+  authors:
+  - name: Najmeh Edraki
+  - name: Omidreza Firuzi
+  - name: Alireza Foroumadi
+  - name: Ramin Miri
+  - name: Armin Madadkar-Sobhani
+  - name: Mehdi Khoshneviszadeh
+  - name: Abbas Shafiee
+  paper:
+    summary: 'The inhibition of β secretase (BACE1) is potentially important approach to treatment of Alzheimer disease (AD). A novel series of 4-bromophenyl piperazine derivatives coupled to the phenylimino-2H-chromen-3-carboxamide scaffold were investigated as BACE1 inhibitors in this study. Docking study suggested that the phenyl-imino group of the scaffold establishes favorable π–π stacking interaction with side chain of Phe108 of flap pocket. Some of the docking proposed derivatives were synthesized and evaluated for BACE1 inhibitory activity using a FRET-based assay. High BACE1 inhibitory activities were observed from derivatives containing fused heteroaromtic groups attached through the aliphatic linkage to the N4-piperazine moiety, which may be attributed to the engagement of effective interactions with S1–S′1 sub-pocket residues. Of the most potent compounds, 9e displayed an IC50 value for BACE1 of 98 nM. Some of these derivatives demonstrated good inhibitory activity on Aβ production in N2a-APPswe cells at 5 and 10 μM. These compounds might be considered as promising BACE1 inhibitory agents that could lower Aβ production in AD.'
+    url: http://dx.doi.org/10.1016/j.bmc.2013.01.064
+  categories: ["cadd"]
+  tags: ["Alzheimer","BACE1","FRET"]
+
+- title: 'Linear and nonlinear QSAR modeling of 1,3,8-substituted-9-deazaxanthines as potential selective A2BAR antagonists'
+  publishedIn:
+    name: Medicinal Chemistry Research
+    date: 13 January 2013
+    url: https://www.tandfonline.com/journals/ienz20
+  authors:
+  - name: Mahboubeh Mansourian
+  - name: Lotfollah Saghaie
+  - name: Afshin Fassihi
+  - name: Armin Madadkar-Sobhani
+  - name: Karim Mahnam
+  paper:
+    summary: 'A QSAR study of 74 derivatives of 1,3,8-substituted-9-deazaxanthines as potent and selective A2B adenosine receptor (A2BAR) antagonists is described. pKi of all the studied compounds were acquired by three linear and nonlinear methods namely stepwise multiple linear regression, partial least squares (PLS), and general regression neural networks (GRNN). The performances of developed models were tested by several external and internal validation methods and also the criteria recommended by Tropsha and Roy. Predictability and possible overfitting in the resulting models were examined by cross-validation. Results revealed the significant role of topological and geometrical descriptors in binding of the studied compounds to A2BAR. PLS and GRNN models had good statistical qualities with PLS showing better performance (R 2 = 0.863 and Q 2 = 0.817). Applicability domain of the models was also defined. The prediction results were in good agreement with the experimental data.'
+    url: http://dx.doi.org/10.1007/s00044-012-0453-8
+  categories: ["comp","selected","cadd"]
+  tags: ["A2BAR","GRNN","PLS","QSAR"]
+
+- title: 'Computational evaluation of some indenopyrazole derivatives as anticancer compounds; application of QSAR and docking methodologies'
+  publishedIn:
+    name: Journal of Enzyme Inhibition and Medicinal Chemistry
+    date: 14 Oct 2011
+    url: https://www.springer.com/journal/44
+  authors:
+  - name: Mohsen Shahlaei
+  - name: Afshin Fassihi
+  - name: Lotfollah Saghaie
+  - name: Elham Arkan
+  - name: Armin Madadkar-Sobhani
+  - name: Alireza Pourhossein
+  paper:
+    summary: 'A computational procedure was performed on some indenopyrazole derivatives. Two important procedures in computational drug discovery, namely docking for modeling ligand-receptor interactions and quantitative structure activity relationships were employed. MIA-QSAR analysis of the studied derivatives produced a model with high predictability. The developed model was then used to evaluate the bioactivity of 54 proposed indenopyrazole derivatives. In order to confirm the obtained results through this ligand-based method, docking was performed on the selected compounds. An ADME–Tox evaluation was also carried out to search for more suitable compounds. Satisfactory bioactivities and ADME–Tox proﬁles for two of the compounds, namely 62 and S13, propose that further studies should be performed on such devoted chemical structures.'
+    url: http://dx.doi.org/10.3109/14756366.2011.618991
+  categories: ["comp","selected","cadd"]
+  tags: ["ADME–Tox","docking","QSAR"]
