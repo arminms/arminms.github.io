@@ -23,15 +23,29 @@ buttons:
 projects:
 - name: amstools
   role: Owner
-  timeline: "March 2022 - Present"
+  timeline: "May 2022 - Present"
   repo: https://github.com/arminms/amstools
   summary: Collection of high-performance biological sequence tools developed in C/C++.
   tags: ["academic", "bioinformatics", "NGS"]
 
+- name: RSMTK
+  role: Owner
+  timeline: "Mar 2019 - Feb 2022"
+  repo: https://github.com/sharcnet/rsmtk
+  summary: A modern C++ library and toolkit for global and local optimization using radial basis function response surface models.
+  tags: ["academic","optimization","RBF","RSM"]
+
+- name: spins-tools
+  role: Owner
+  timeline: "Aug 2017 - Jun 2018"
+  repo: https://git.sharcnet.ca/DP/spins-tools
+  summary: A set of tools for converting SPINS' output format to self-describing data formats (e.g. NetCDF and HDF5).
+  tags: ["academic","NetCDF","HDF5"]
+
 - name: HoliMoli
   logo: /images/sections/projects/holimoli.png
   role: Owner
-  timeline: 2016
+  timeline: "May 2016 - Dec 2016"
   repo: https://github.com/arminms/HoliMoli
   summary: The molecular hologram viewer for Microsoft HoloLens.
   tags: ["hobby","HoloLens","molecule","3D"]
@@ -39,21 +53,21 @@ projects:
 - name: Hashkat Version 2 (#k@-v2)
   logo: /images/sections/projects/hashkat.svg
   role: Developer
-  timeline: "2015 - Present"
+  timeline: "Aug 2015 - Mar 2016"
   repo: https://github.com/arminms/hashkat-v2
   summary: 'HPC version of original [#k@](http://hashkat.org/) (Kinetic Analysis of Twitter-like Network).'
   tags: ["academic","professional"]
 
 - name: Maral
   role: Owner
-  timeline: "2012 - 2017"
+  timeline: "May 2012 - Mar 2015"
   repo: https://github.com/arminms/maral
   summary: 'Maral is a header-only template based C++11 molecular API.'
   tags: ["academic","hobby","molecule","3D"]
 
 - name: PELE Web Server
   role: Developer
-  timeline: "2011 - Present"
+  timeline: "May 2011 - Feb 2014"
   url: https://pele.bsc.es
   summary: 'Web interface for Protein Energy Landscape Exploration program written in C++.'
   tags: ["academic","professional","drug design"]
