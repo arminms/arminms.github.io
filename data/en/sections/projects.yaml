@@ -21,6 +21,14 @@ buttons:
 
 # your projects
 projects:
+- name: g3p
+  logo: /images/sections/projects/g3p_logo.svg
+  role: Owner
+  timeline: "March 2023 - Present"
+  repo: https://github.com/arminms/g3p
+  summary: A modern header-only C++ interface library for gnuplot. It is the most natural and intuitive way of adding gnuplot support into any C++ program.
+  tags: ["academic", "plotting", "data-science"]
+
 - name: amstools
   role: Owner
   timeline: "May 2022 - Present"
