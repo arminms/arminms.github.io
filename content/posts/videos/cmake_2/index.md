@@ -17,6 +17,6 @@ draft: false
 ---
 CMake is a cross-platform, free and open-source build system that allows you automatically build, test, verify, package and deploy software in a compiler-independent manner. In Part I of this seminar we introduced CMake and the first three steps of our tutorial:
 
- • [Automating Software Build Process using CMake – Part I](https://youtu.be/7wxzoAdZcKE)
+- [Automating Software Build Process using CMake – Part I](https://youtu.be/7wxzoAdZcKE)
 
 In Part II we will continue with more steps covering other techniques like adding options, correct way of finding Boost library, configuring header files, producing installation packages and so on. It is highly recommended to review the prior talk before attending this one.
