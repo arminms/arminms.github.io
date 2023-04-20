@@ -10,7 +10,7 @@ menu:
 hero: images/p1010039.jpg
 draft: false
 ---
-#### This webinar was presented by me on September 14, 2016 as a part of a series of regular biweekly webinars ran by [SHARCNET](https://sharcnet.ca).
+#### I presented this webinar on September 14, 2016 as a part of a series of regular biweekly webinars ran by [SHARCNET](https://sharcnet.ca).
 ---
 {{< youtube 7wxzoAdZcKE >}}
 
