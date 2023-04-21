@@ -3,8 +3,8 @@ title: "How to Use C++ Parallel Algorithms in a Distributed Memory Setup (i.e. M
 date: 2020-07-29T16:04:07-04:00
 menu:
   sidebar:
-    name: Parallel STL - MPI
-    identifier: mpi4stl
+    name: PGAS
+    identifier: pgas
     parent: videos
     weight: 70
 hero: images/p1010380.jpg
