@@ -6,7 +6,7 @@ menu:
     name: Back To Black
     identifier: back_to_black
     parent: random
-    weight: 10
+    weight: 110
 hero: images/48968346138_c788441364_k.jpg
 draft: false
 ---
@@ -17,8 +17,8 @@ Yesterday, in my monthly routine haircut, as soon as my barber who is a very sha
 
 I said “As a matter of fact, yes…” but before I could even finish she continued by saying it’s happening to about 10-15 of her regular customers!!! 🤯 She genuinely believed it’s one of the side effects of covid vaccine.
 
-True or false, that’s an interesting observation. Anyone else here having the same experience?
-Whether it’s something that happens to people with certain ethnicity or traits and how long it’s gonna last, 
-Have anyone else noticed the same change in hair color?
+True or false, that’s an interesting observation. Have you had such an experience with your hair color recently?
+
+Whether it’s something that happens to people with certain ethnicity or traits and if it’s gonna last, are among many questions that remained to be answered as the time goes by.
 
 <p class="attribution">Top image: <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/156445661@N02/48968346138">Barber cutting hair with comb</a> by <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/156445661@N02">shixart1985</a></p>
