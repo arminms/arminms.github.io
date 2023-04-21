@@ -14,16 +14,15 @@ experiences:
     name: SHARCNET
     url: "https://sharcnet.ca"
     location: Faculty of Science, Ontario Tech University, Oshawa, Ontario, Canada
-    # company overview
     overview: SHARCNET provides HPC/ARC facilities to a total of 19 academic partner institutions in the southern Ontario.
   positions:
   - designation: High-Performance Computing Technical Consultant
     start: May 2015
     responsibilities:
     - Provide broad HPC user support, tools, and training to faculty, staff and students at local ([Ontario Tech University](https://ontariotechu.ca)), regional ([Compute Ontario](https://www.computeontario.ca/)) and national ([Compute Canada/DRAC](https://aliancecan.ca)) levels.
-    - Actively participated in training and outreach programs including but not limited to New User and Refresher Seminars (NURSE), General Interest Seminars (GIS), Summer Schools on HPC, Intro to ARC, etc.
+    - Actively participate in training and outreach programs including but not limited to New User and Refresher Seminars (NURSE), General Interest Seminars (GIS), Summer Schools on HPC, Intro to ARC, etc.
     - Provide programming and consulting support to build expertise in the use of [SHARCNET](https://sharcnet.ca)/[DRAC](https://alliancecan.ca) facilities.
-    - Contribute to [SHARCNET’s Dedicated Programming](https://www.sharcnet.ca/my/research/programming) projects.
+    - Contribute to [SHARCNET's Dedicated Programming](https://www.sharcnet.ca/my/research/programming) projects.
     - '**Primary Technologies Used:** Ansible, Apptainer/Singularity, BLAS, Boost, Catch2, CCDB, CMake, CUDA, cuBLAS, cuSOLVER, Docker, DirectX, FlexiBLAS, FPGA, gcc/g++/gdb, Git, GitHub Actions, GNU GSL, HoloLens, Hugo, IBM LSF, LAPACK, MPI, Ninja, Nix, NVIDIA HPC SDK, oneAPI, OpenGL, OpenMP, OTRS, PGAS, Python, ROCm, Slack, SLURM, Sphinx, STL, SYCL, TBB, Thrust, vcpkg, VSCode, Vulkan'
 
 - company:
@@ -44,7 +43,7 @@ experiences:
     name: Barcelona Supercomputing Center (BSC)
     url: "https://bsc.es"
     location: Barcelona, Catalonia, Spain
-    overview: BSC is Spain’s leading supercomputing centre and specialises in High Performance Computing.
+    overview: BSC is Spain's leading supercomputing centre and specialises in High Performance Computing.
   positions:
   - designation: Senior Researcher
     start: 2010
@@ -83,12 +82,12 @@ experiences:
     start: 2001
     end: 2007
     responsibilities:
-    - 'Carry out research projects and publish in the field of *in silico* drug design.'
+    - Carry out research projects and publish in the field of *in silico* drug design.
     - Teach undergraduate students (nursing, midwiferies, paramedics, …).
     - Teach graduate students (MD, Ph.D. candidates in pharmacology, biochemistry, physiology, etc.).
     - Supervise M.Sc. theses and Ph.D. dissertations.
     - Develope software controlling data acquisition (DAQ) hardware for monitoring animal behavior.
-    - Administer university’s mail, web, Firewall/Proxy, DNS, DHCP and TACACS servers.
+    - Administer university's mail, web, Firewall/Proxy, DNS, DHCP and TACACS servers.
     - Manage and maintain network/internet infrastructure of the university.
     - Administer and maintain Sun SPARC, HP and IBM servers.
     - Provide consultation in purchasing hardware and software.
@@ -104,7 +103,7 @@ experiences:
     start: 1994
     end: 2001
     responsibilities:
-    - Administer institute’s mail (sendmail), gopher, web (Apache), Telnet, FTP, DNS, NIS servers.
+    - Administer institute's mail (sendmail), gopher, web (Apache), Telnet, FTP, DNS, NIS servers.
     - Administer and manage bioinformatics software and databases (IntelliGenetics IGSuite, Entrez, Swiss-Prot, PDB, etc.).
     - Administer and maintain Sun SPARC servers.
     - Manage and maintain network/internet infrastructure of the institute.
