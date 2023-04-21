@@ -10,7 +10,7 @@ menu:
 hero: images/p1010137.jpg
 draft: false
 ---
-#### I presented this webinar on April 26th, 2017 as a part of a series of regular biweekly webinars ran by [SHARCNET](https://sharcnet.ca).
+#### I presented this webinar on April 26th, 2017 as a part of a series of regular biweekly General Interest Webinars ran by [SHARCNET](https://sharcnet.ca).
 ---
 {{< youtube Tsd6bAW8uLg >}}
 

@@ -10,7 +10,7 @@ menu:
 hero: images/p1010379.jpg
 draft: false
 ---
-#### I presented this webinar on February 27th, 2019 as a part of a series of regular biweekly webinars ran by [SHARCNET](https://sharcnet.ca).
+#### I presented this webinar on February 27th, 2019 as a part of a series of regular biweekly General Interest Webinars ran by [SHARCNET](https://sharcnet.ca).
 ---
 {{< youtube yU645WpDcuM >}}
 
