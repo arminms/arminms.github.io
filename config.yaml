@@ -122,7 +122,7 @@ params:
         #   recordIP: true
         #   enableQQ: true
         utteranc:
-          repo: github.com/arminms/arminms.github.io
+          repo: arminms/arminms.github.io
           issueTerm: url
           theme: github-light
         # giscus:
