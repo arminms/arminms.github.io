@@ -19,11 +19,11 @@ buttons:
 - name: Hobby
   filter: "hobby"
 
-# my projects
+# projects
 projects:
 - name: one4all
   role: Owner
-  timeline: "March 2023 - Present"
+  timeline: "Mar 2023 - Present"
   repo: https://github.com/arminms/one4all
   summary: A framework to streamline developing for CUDA, ROCm, oneAPI and Parallel STL at the same time.
   tags: ["academic", "HPC", "XPU", "data-parallel"]
@@ -31,7 +31,7 @@ projects:
 - name: g3p
   logo: /images/sections/projects/g3p_logo.svg
   role: Owner
-  timeline: "March 2023 - Present"
+  timeline: "Mar 2023 - Present"
   repo: https://github.com/arminms/g3p
   summary: A modern header-only C++ interface library for gnuplot. It is the most natural and intuitive way of adding gnuplot support into any C++ program.
   tags: ["academic", "plotting", "data-science"]
@@ -45,7 +45,7 @@ projects:
 
 - name: vscode-hpc
   role: Owner
-  timeline: "January 2022 - September 2022"
+  timeline: "Jan 2022 - Sep 2022"
   repo: https://github.com/sharcnet/vscode-hpc
   summary: Sample code for remote development on HPC clusters with VSCode.
   tags: ["academic", "professional", "HPC"]
