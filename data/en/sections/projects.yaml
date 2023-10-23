@@ -21,6 +21,14 @@ buttons:
 
 # projects
 projects:
+projects:
+- name: p2rng
+  role: Owner
+  timeline: "October 2023 - Present"
+  repo: https://github.com/arminms/p2rng
+  summary: A modern header-only C++ library for parallel algorithmic (pseudo) random number generation supporting OpenMP, CUDA, ROCm and oneAPI.
+  tags: ["academic", "HPC", "PRNG", "random"]
+
 - name: one4all
   role: Owner
   timeline: "Mar 2023 - Present"
