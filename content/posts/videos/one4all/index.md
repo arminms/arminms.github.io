@@ -6,7 +6,7 @@ menu:
     name: CUDA, ROCm, oneAPI
     identifier: one4all
     parent: videos
-    weight: 110
+    weight: 120
 hero: images/p1030224.jpg
 draft: false
 ---
