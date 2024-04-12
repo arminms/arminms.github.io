@@ -1,4 +1,4 @@
-baseURL: https://arminsobhani.ca
+baseURL: https://armin.sobhani.me
 
 languageCode: en-us
 title: "Armin Sobhani"
@@ -112,7 +112,7 @@ params:
       enable: true
       services:
         # disqus:
-        #   shortName: arminsobhani.ca
+        #   shortName: armin.sobhani.me
         # valine:
         #   appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
         #   appKey: pVrT3C85KGIuk27t07eh6bUC
