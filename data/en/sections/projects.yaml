@@ -21,7 +21,13 @@ buttons:
 
 # projects
 projects:
-projects:
+- name: gol2p
+  role: Owner
+  timeline: "July 2024 - Present"
+  repo: https://github.com/arminms/gol2p
+  summary: A C++ implementation of Conway's Game of Life using SDL2 with support for WebAssembly (Wasm) via Emscripten.
+  tags: ["Wasm", "WebAssembly", "SDL2", "Game of Life"]
+
 - name: p2rng
   role: Owner
   timeline: "October 2023 - Present"
