@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a seasoned **HPC/ARC technical consultant** based at **Ontario Tech University** with over 15 years’ experience developing **parallel scientific software** and providing support and training to faculty, staff and students. My background is in *in-silico* **Drug Design** and **Bioinformatics**. I have substantial experience in developing software for HPC environments including but not limited to *shared* and *distributed-memory* architectures (**Threads/OpenMP**, **MPI**, **PGAS**), data-parallel (**CUDA**, **ROCm**) and *heterogeneous computing* (**OpenCL**, **OpenACC**, **SYCL**, **oneAPI**). I love cooking, swimming, digital photography, listening to music and of course video gaming!'
+summary: 'I am a seasoned **HPC/ARC technical consultant** based at **Ontario Tech University** with over 20+ years’ experience developing **parallel scientific software** and providing support and training to faculty, staff and students. My background is in **Bioinformatics** and *in-silico* **Drug Design**. I have substantial experience in developing software for HPC environments including but not limited to *shared* and *distributed-memory* architectures (**Threads/OpenMP**, **MPI**, **PGAS**), XPU ecosystems (**CUDA**, **ROCm**, **oneAPI**) and *heterogeneous computing* (**OpenCL**, **OpenACC**, **SYCL**). I love cooking, swimming, digital photography, listening to music and of course video gaming!'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
